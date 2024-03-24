@@ -1,0 +1,6 @@
+locations:
+- build:
+    directory: ./complete_dbt_bootcamp_zero_to_hero
+  code_source:
+    module_name: complete_dbt_bootcamp_zero_to_hero.definitions
+  location_name: complete_dbt_bootcamp_zero_to_hero
